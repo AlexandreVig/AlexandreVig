@@ -5,7 +5,5 @@
 
 - 👨‍💻 All of my projects are available at [https://alexvig.ovh/](https://alexvig.ovh/)
 
-- 📫 How to reach me **alexandre@vigneau.name**
-
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrevig&show_icons=true&locale=en&layout=compact" alt="alexandrevig" /></p>
 
